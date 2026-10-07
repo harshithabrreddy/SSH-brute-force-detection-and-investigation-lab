@@ -1,0 +1,13 @@
+2026-10-07T05:03:54.166187+00:00 LAPTOP-LGF6BNV3 sshd-session[591]: Failed password for harshithabr from 127.0.0.1 port 52776 ssh2
+2026-10-07T05:04:06.903969+00:00 LAPTOP-LGF6BNV3 sshd-session[591]: Failed password for harshithabr from 127.0.0.1 port 52776 ssh2
+2026-10-07T05:04:15.360991+00:00 LAPTOP-LGF6BNV3 sshd-session[591]: Failed password for harshithabr from 127.0.0.1 port 52776 ssh2
+2026-10-07T05:08:49.322956+00:00 LAPTOP-LGF6BNV3 sudo: harshithabr : TTY=/dev/pts/0 ; PWD=/home/harshithabr ; USER=root ; COMMAND=/usr/bin/grep sshd.*Failed password /var/log/auth.log
+2026-10-07T05:09:40.985375+00:00 LAPTOP-LGF6BNV3 sshd-session[808]: Failed password for harshithabr from 127.0.0.1 port 53502 ssh2
+2026-10-07T05:09:44.649634+00:00 LAPTOP-LGF6BNV3 sshd-session[808]: Failed password for harshithabr from 127.0.0.1 port 53502 ssh2
+2026-10-07T05:09:50.782077+00:00 LAPTOP-LGF6BNV3 sshd-session[808]: Failed password for harshithabr from 127.0.0.1 port 53502 ssh2
+2026-10-07T05:11:27.314638+00:00 LAPTOP-LGF6BNV3 sudo: harshithabr : TTY=/dev/pts/0 ; PWD=/home/harshithabr ; USER=root ; COMMAND=/usr/bin/grep sshd.*Failed password /var/log/auth.log
+2026-10-07T05:11:37.487724+00:00 LAPTOP-LGF6BNV3 sudo: harshithabr : TTY=/dev/pts/0 ; PWD=/home/harshithabr ; USER=root ; COMMAND=/usr/bin/grep sshd.*Failed password /var/log/auth.log
+2026-10-07T06:20:52.219763+00:00 LAPTOP-LGF6BNV3 sudo: harshithabr : TTY=/dev/pts/0 ; PWD=/home/harshithabr/SSH-Brute-Force-Detection ; USER=root ; COMMAND=/usr/bin/grep sshd.*Failed password /var/log/auth.log
+2026-10-07T06:27:08.970652+00:00 LAPTOP-LGF6BNV3 sshd-session[1434]: Failed password for harshithabr from 127.0.0.1 port 56360 ssh2
+2026-10-07T06:27:14.346798+00:00 LAPTOP-LGF6BNV3 sshd-session[1434]: Failed password for harshithabr from 127.0.0.1 port 56360 ssh2
+2026-10-07T06:27:18.965801+00:00 LAPTOP-LGF6BNV3 sshd-session[1434]: Failed password for harshithabr from 127.0.0.1 port 56360 ssh2

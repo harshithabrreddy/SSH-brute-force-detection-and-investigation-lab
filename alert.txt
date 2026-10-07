@@ -1,0 +1,26 @@
+========================================
+        SOC SECURITY ALERT
+========================================
+
+Alert ID        : SSH-001
+Alert Type      : SSH Brute-Force
+Severity        : HIGH
+Status          : OPEN
+
+Source IP       : 127.0.0.1
+Target Username : harshithabr
+Failed Attempts : 6
+
+Start Time      : 2026-10-07 06:42:31
+End Time        : 2026-10-07 06:43:24
+Time Window     : 53 seconds
+
+Detection Rule  : 5 or more failed SSH
+                  login attempts from
+                  the same IP within
+                  60 seconds.
+
+Detection Result:
+Possible SSH Brute-Force Attack
+
+========================================
