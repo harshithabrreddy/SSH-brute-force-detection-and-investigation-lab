@@ -1,5 +1,8 @@
 # MITRE ATT&CK Mapping
 
+<img width="1349" height="1600" alt="04-mitre-mapping" src="https://github.com/user-attachments/assets/17775f35-93ec-49f3-97d1-e999289c5687" />
+
+
 ## Detection
 SSH Brute-Force / Password Guessing
 
