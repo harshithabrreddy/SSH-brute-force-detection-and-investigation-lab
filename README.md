@@ -33,33 +33,24 @@ This project demonstrates a SOC workflow for detecting, investigating, and docum
 
 ## Detection Workflow
 
-SSH Authentication
-|
-v
-/var/log/auth.log
-|
-v
-Failed SSH Events
-|
-v
-Python Detection
-|
-v
-Source IP + Username
-|
-v
-5 Attempts / 60 Seconds
-|
-v
-HIGH Severity Alert
-|
-v
-SOC Investigation
-|
-v
-MITRE ATT&CK Mapping
-|
-v
+SSH Authentication  
+↓  
+`/var/log/auth.log`  
+↓  
+Failed SSH Events  
+↓  
+Python Detection  
+↓  
+Source IP + Username  
+↓  
+5 Attempts / 60 Seconds  
+↓  
+HIGH Severity Alert  
+↓  
+SOC Investigation  
+↓  
+MITRE ATT&CK Mapping  
+↓  
 Incident Report
 
 ## Sample Detection
